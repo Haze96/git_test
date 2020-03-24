@@ -1,0 +1,1 @@
+This is haze96 first git project!
